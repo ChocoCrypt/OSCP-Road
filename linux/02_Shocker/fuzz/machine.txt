@@ -1,1 +1,10 @@
 403       11l       32w      299c http://10.10.10.56/server-status
+403       11l       32w      295c http://10.10.10.56/.htaccess
+403       11l       32w      295c http://10.10.10.56/.htpasswd
+403       11l       32w      290c http://10.10.10.56/.hta
+403       11l       32w      294c http://10.10.10.56/cgi-bin/
+403       11l       32w      303c http://10.10.10.56/cgi-bin/.htaccess
+403       11l       32w      303c http://10.10.10.56/cgi-bin/.htpasswd
+403       11l       32w      298c http://10.10.10.56/cgi-bin/.hta
+200        9l       13w      137c http://10.10.10.56/index.html
+403       11l       32w      299c http://10.10.10.56/server-status
